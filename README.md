@@ -8,4 +8,4 @@ Contenidos del curso: https://canvas.instructure.com/courses/14139681/
 Nombre                  Codigo
 Leonardo Montes Marin   Profesor
 
-* Pablo
+* JP Hernández Valencia 65625

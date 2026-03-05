@@ -7,13 +7,13 @@ Contenidos del curso: https://canvas.instructure.com/courses/14139681/
 
 Nombre                      Codigo
 
-\* \*\*Leonardo Montes Marín\*\* Profesor
+&nbsp;\*\*Leonardo Montes Marín\*\* Profesor
 
-\* \*\*John Doe\*\* 6666777
+&nbsp;\*\*John Doe\*\* 6666777
 
-\* \*\*Juan José Vélez\*\* 55467
+&nbsp;\*\*Juan José Vélez\*\* 55467
 
-\* \*\*Sergio Andrés Correa\*\* 68840
+&nbsp;\*\*Sergio Andrés Correa\*\* 68840
 
-\* \*\*JP Hernández Valencia\*\* 65625
+&nbsp;\*\*JP Hernández Valencia\*\* 65625
 

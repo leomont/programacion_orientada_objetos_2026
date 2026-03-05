@@ -7,7 +7,10 @@ Contenidos del curso: https://canvas.instructure.com/courses/14139681/
 
 Nombre                  Codigo
 Leonardo Montes Marin   Profesor
+
 Jhon Doe                6666777
 Juan Jose Velez         55467
 Sergio Andres Correa    68840
-Sergio Andres Correa    68840
+
+
+* Pablo

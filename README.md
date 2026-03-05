@@ -9,7 +9,7 @@ Nombre                      Codigo
 
 \* \*\*Leonardo Montes Marín\*\* Profesor
 
-\* \*\*Jhon Doe\*\* 6666777
+\* \*\*John Doe\*\* 6666777
 
 \* \*\*Juan José Vélez\*\* 55467
 

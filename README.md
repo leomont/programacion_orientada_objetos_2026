@@ -14,5 +14,4 @@ Nombre                      Codigo
 * Juan José Vélez           55467
 * Sergio Andrés Correa      68840
 * Angie Valentina Quintero  70323
-
-
+* Ingrid Olivera Esquivel   10253

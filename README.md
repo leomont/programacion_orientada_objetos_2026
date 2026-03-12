@@ -16,3 +16,4 @@ Nombre                      Codigo
 * Angie Valentina Quintero  70323
 * Ingrid Olivera Esquivel   10253
 * Juan Jose Farfan Serna    69429
+* Santiago Cardona Giraldo  38685

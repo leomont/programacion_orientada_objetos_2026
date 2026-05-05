@@ -17,3 +17,4 @@ Nombre                      Codigo
 * Ingrid Olivera Esquivel   10253
 * Juan Jose Farfan Serna    69429
 * Santiago Cardona Giraldo  38685
+* Andres mauricio rodriguez 70313

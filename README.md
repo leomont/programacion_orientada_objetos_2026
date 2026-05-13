@@ -18,3 +18,4 @@ Nombre                      Codigo
 * Juan Jose Farfan Serna    69429
 * Santiago Cardona Giraldo  38685
 * Andres mauricio rodriguez 70313
+*Miguel Angel Valencia Valencia 69584
